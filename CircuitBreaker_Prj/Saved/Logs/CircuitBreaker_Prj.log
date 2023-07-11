@@ -1334,3 +1334,4 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.07.11-23.04.37:914][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000007 seconds (updated 0 objects)
 [2023.07.11-23.04.37:915][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2023.07.11-23.04.37:965][  0]LogSlate: Took 0.000166 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.07.11-23.06.58:113][226]LogDerivedDataCache: C:/Users/Christopher Topel/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:35.280 and deleted 0 files with total size 0 MiB. Scanned 18294 files in 17843 folders with total size 2748 MiB.
